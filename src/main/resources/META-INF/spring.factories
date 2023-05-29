@@ -1,0 +1,2 @@
+# spring boot starter [ApiClientConfig >> EnableAutoConfiguration]
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.zwh.clientsdk.ApiClientConfig
